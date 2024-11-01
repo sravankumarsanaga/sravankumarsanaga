@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sravankumarsanaga
-- 👀 I’m interested in MERN Stack
+- 👋 Hi, I’m **Sravan Kumar**
+- 👀 I’m interested in **MERN** Stack
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on MY RoadWatch Pro APP 
 - 📫 How to reach me : sanagasravan@gmail.com
